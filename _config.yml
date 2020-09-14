@@ -1,0 +1,9 @@
+title: My Notes
+logo: /assets/img/logo.jpg
+description: Hi, my name is Dewangga. I'm a software engineer.
+show_downloads: false
+social_media:
+  show: true
+  linkedin: https://linkedin.com/in/dewangga-w-67a955170
+google_analytics:
+theme: jekyll-theme-minimal
