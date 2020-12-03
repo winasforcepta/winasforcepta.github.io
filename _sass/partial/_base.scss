@@ -1,0 +1,22 @@
+body {
+    margin: 15px;
+}
+
+.navbar {
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+      }
+    
+    li {
+        display: inline;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+}
+
+.post, .home{
+    margin: 18px;
+    margin-right: 25px;
+}
